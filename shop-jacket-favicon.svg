@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#2C3E50"/>
+  
+  <!-- Stylized Jacket -->
+  <path d="M8 8 L14 6 L18 6 L24 8 L24 26 L8 26 Z" fill="#E74C3C"/>
+  
+  <!-- Collar -->
+  <path d="M14 6 L16 12 L18 6" fill="#C0392B"/>
+  
+  <!-- Zipper line -->
+  <line x1="16" y1="12" x2="16" y2="26" stroke="#ECF0F1" stroke-width="1.5"/>
+  
+  <!-- Pockets -->
+  <path d="M10 18 L14 18 L14 22 L10 22 Z" fill="#C0392B"/>
+  <path d="M18 18 L22 18 L22 22 L18 22 Z" fill="#C0392B"/>
+</svg>
